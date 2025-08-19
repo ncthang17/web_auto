@@ -133,7 +133,7 @@ python app_2.py
 ```
 
 ---
-## 데모
+## ▶️ 데모
 1. 사용자가 ID와 비밀번호로 (자동) 로그인 <br></br>
    ![Log in](login.PNG)
 2. *등록 페이지(Register page)* 표시
@@ -282,7 +282,7 @@ project/
 }
 ```
 ---
-## Demo
+## ▶️ Demo
 1. Users **log in** (auto log-in) with their IDs and passwords <br></br>
    ![Log in](login.PNG)
 2. *Register page* shows up
